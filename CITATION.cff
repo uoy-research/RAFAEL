@@ -18,14 +18,14 @@ preferred-citation:
   type: inproceedings
   authors:
   - family-names: "Bin Firoz"
-  given-names: "Hasan"
-  orcid: "https://orcid.org/0009-0007-1198-1018"
+    given-names: "Hasan"
+    orcid: "https://orcid.org/0009-0007-1198-1018"
   - family-names: "Paterson"
-  given-names: "Colin"
-  orcid: "https://orcid.org/0000-0002-6678-3752"
+    given-names: "Colin"
+    orcid: "https://orcid.org/0000-0002-6678-3752"
   - family-names: "Hawkins"
-  given-names: "Richard"
-  orcid: "https://orcid.org/0000-0001-7347-3413"
+    given-names: "Richard"
+    orcid: "https://orcid.org/0000-0001-7347-3413"
   doi: "10.1007/978-3-032-35506-5_56"
   journal: "Computer Safety, Reliability, and Security. SAFECOMP 2026 Workshops"
   month: 9
