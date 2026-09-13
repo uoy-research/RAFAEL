@@ -137,3 +137,11 @@ To test the decision-making component in the car-following environment:
 1. Open **Simulation_Fuzzy.slx** file.
 2. Open the **List of Scenario** block in the simulink model and choose either **BrakingNAccel** or **VaryingSpeed**
 3. Run the simulation
+
+## Citation
+If you use this implementation in your research, please cite the accompanying paper.
+
+A **CITATION.cff** file is provided to support citation of this repository and the paper.
+
+## Contact
+For questions regarding the implementation, please contact the author **[Hasan Bin Firoz](hasan.binfiroz@york.ac.uk)**
