@@ -15,7 +15,7 @@ version: 1.0.0
 date-released: 2026-09-13
 url: "https://github.com/uoy-research/RAFAEL"
 preferred-citation:
-  type: inproceedings
+  type: conference-paper
   authors:
   - family-names: "Bin Firoz"
     given-names: "Hasan"
