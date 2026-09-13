@@ -14,17 +14,16 @@ title: "RAFAEL"
 version: 1.0.0
 date-released: 2026-09-13
 url: "https://github.com/uoy-research/RAFAEL"
-
 preferred-citation:
   type: inproceedings
   authors:
   - family-names: "Bin Firoz"
   given-names: "Hasan"
   orcid: "https://orcid.org/0009-0007-1198-1018"
-- family-names: "Paterson"
+  - family-names: "Paterson"
   given-names: "Colin"
   orcid: "https://orcid.org/0000-0002-6678-3752"
-- family-names: "Hawkins"
+  - family-names: "Hawkins"
   given-names: "Richard"
   orcid: "https://orcid.org/0000-0001-7347-3413"
   doi: "10.1007/978-3-032-35506-5_56"
