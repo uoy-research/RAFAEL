@@ -29,7 +29,7 @@ The repository contains four main files:
 </details>
 
 <details>
-  <summary><b>Simulation_Fuzzy.slx</b></summary>
+  <summary><b>Simulation_RAFAEL.slx</b></summary>
   
   This file contains the complete decision-making pipeline for the Mobile Autonomous System.
 
@@ -59,7 +59,7 @@ The repository contains four main files:
 
   At present, two situations of car-following scenario are included:
 
-  1. BrakingNAccel
+  1. HarshBraking
   2. VaryingSpeed
 
   These provide different driving situations for evaluating the behaviour of the proposed decision-making component.
@@ -134,8 +134,8 @@ This represent a situation in which there is sufficient separation between the v
 ### 3. Run the Simulink Simulation
 To test the decision-making component in the car-following environment:
 
-1. Open **Simulation_Fuzzy.slx** file.
-2. Open the **List of Scenario** block in the simulink model and choose either **BrakingNAccel** or **VaryingSpeed**
+1. Open **Simulation_RAFAEL.slx** file.
+2. Open the **List of Scenario** block in the simulink model and choose either **HarshBraking** or **VaryingSpeed**
 3. Run the simulation
 
 ## Citation
