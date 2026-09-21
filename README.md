@@ -6,13 +6,13 @@ This repository contains the MATLAB/Simulink implementation of the RAFAEL decisi
 The implementation demonstrates the design and simulation-based evaluation of a rational hierarchical fuzzy decision-making component for a Mobile Autonomous System (MAS) in a car-following scenario.
 
 ## MATLAB Version
-The MATLAB .m files and Simulink model were created using **MATLAB R2024a**.
+All the MATLAB files and Simulink models were created using **MATLAB R2024a**.
 
 ## Repository Contents
 The repository contains four main files:
 
 <details open>
-  <summary><b>fistreeDecisionComponent.fis</b></summary>
+  <summary><b>fistreeDecisionComponent.mat</b></summary>
   
   This file contains the hierarchical fuzzy decision-making component proposed in the RAFAEL paper. The component can be inspected and explored using the **Fuzzy Logic Designer App** in MATLAB. The hierarchical structure, individual fuzzy inference systems (FISs), membership functions, and fuzzy reasoning can be examined directly.
 
@@ -48,12 +48,12 @@ The repository contains four main files:
 <details>
   <summary><b>init_file.m</b></summary>
   
-  This MATLAB script contains the initial parameters required to initialise and run the simulation.
+  This MATLAB script contains the initial parameters required to initialise and run the simulation using **Simulation_RAFAEL.slx** file.
   
 </details>
 
 <details>
-  <summary><b>TestScenario.m</b></summary>
+  <summary><b>TestScenario.mat</b></summary>
   
   This file contains the test scenarios used to evaluate the decision-making component.
 
@@ -75,7 +75,7 @@ The repository contains four main files:
 ### 1. Open the RAFAEL Decision-Making Component
 
 To inspect the hierarchical decision-making architecture:
-1. Open MATLAB R2024a
+1. Open MATLAB
 2. Open the **Fuzzy Logic Designer App** by entering the following command in the command window of MATLAB:
    ```Matlab
    fuzzyLogicDesigner
